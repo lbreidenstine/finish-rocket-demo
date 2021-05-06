@@ -26,7 +26,7 @@ mainTL.add(fadeInTL)
         .add(demoThisTL);
 
         mainTL.play("marker");
-        // mainTL.play();
+        mainTL.play();
 
 
 // console.log(numberThing);
